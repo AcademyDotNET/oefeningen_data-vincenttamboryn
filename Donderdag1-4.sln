@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Supercomputer", "Donderdag1-4\Supercomputer.csproj", "{BE474FFD-F28B-4545-B130-86B736E8BD9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric fun", "Geometric fun\Geometric fun.csproj", "{A7C5D4CB-35AB-4C48-8923-CE02700FC27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI Calculator", "BMI Calculator\BMI Calculator.csproj", "{E37951B8-3DAE-44BC-B3B7-02892D8C19C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Op De Poef", "Op De Poef\Op De Poef.csproj", "{67505765-75F6-4C95-8B79-6C8441FA53D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feestkassa", "Feestkassa\Feestkassa.csproj", "{89DF3E33-0948-42F8-BB25-738A4C7DA6C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Het Orakelthe van Delphi", "Het Orakelthe van Delphi\Het Orakelthe van Delphi.csproj", "{0904CDAF-5AE1-4EA2-A6A5-0A7A0E123E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeestKassaRandom", "FeestKassaRandom\FeestKassaRandom.csproj", "{F0CD1746-1832-468B-AEB4-DE831D007563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE474FFD-F28B-4545-B130-86B736E8BD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE474FFD-F28B-4545-B130-86B736E8BD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE474FFD-F28B-4545-B130-86B736E8BD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE474FFD-F28B-4545-B130-86B736E8BD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C5D4CB-35AB-4C48-8923-CE02700FC27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C5D4CB-35AB-4C48-8923-CE02700FC27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C5D4CB-35AB-4C48-8923-CE02700FC27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C5D4CB-35AB-4C48-8923-CE02700FC27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37951B8-3DAE-44BC-B3B7-02892D8C19C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37951B8-3DAE-44BC-B3B7-02892D8C19C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37951B8-3DAE-44BC-B3B7-02892D8C19C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37951B8-3DAE-44BC-B3B7-02892D8C19C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67505765-75F6-4C95-8B79-6C8441FA53D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67505765-75F6-4C95-8B79-6C8441FA53D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67505765-75F6-4C95-8B79-6C8441FA53D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67505765-75F6-4C95-8B79-6C8441FA53D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DF3E33-0948-42F8-BB25-738A4C7DA6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DF3E33-0948-42F8-BB25-738A4C7DA6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DF3E33-0948-42F8-BB25-738A4C7DA6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DF3E33-0948-42F8-BB25-738A4C7DA6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0904CDAF-5AE1-4EA2-A6A5-0A7A0E123E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0904CDAF-5AE1-4EA2-A6A5-0A7A0E123E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0904CDAF-5AE1-4EA2-A6A5-0A7A0E123E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0904CDAF-5AE1-4EA2-A6A5-0A7A0E123E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0CD1746-1832-468B-AEB4-DE831D007563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CD1746-1832-468B-AEB4-DE831D007563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CD1746-1832-468B-AEB4-DE831D007563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CD1746-1832-468B-AEB4-DE831D007563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F341044-B8E9-4121-BF37-6C1B430220E8}
+	EndGlobalSection
+EndGlobal
